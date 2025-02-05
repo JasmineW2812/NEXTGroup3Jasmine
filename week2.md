@@ -26,7 +26,7 @@ N/A
 Admin Persona [Completed]
 
 ### Issues
-Other group members had miss communication on the implementation of some information that will be stored in the database fixed with visualisation using pen and paper
+Other group members had miscommunication on the implementation of question system in the database fixed with visualisation using pen and paper
 
 ## Group Meeting - Thursday 30/01/25
 
