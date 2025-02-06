@@ -27,10 +27,14 @@ N/A
 ## Group Meeting - Thursday 06/02/25
 
 ### During session
-**Individual:**
 
 **Collaberative:**
+Completed the container diagram with Jacob,
+Discussed coding plan and how branches will work for next week,
+
 
 ## To do
+continue watching videos on asp.net
 
 ### Issues
+N/A
