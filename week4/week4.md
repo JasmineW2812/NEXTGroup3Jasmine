@@ -16,7 +16,7 @@ N/A
 N/A
 
 ## Group Meeting - Tuesday 11/02/25
-Could not attend due to major incident at the accomodation next to mine, advised to stay inside.
+Could not attend due to major incident at the building next to mine, advised to stay inside by police.
 
 ## Group Meeting - Thursday 13/02/25
 
