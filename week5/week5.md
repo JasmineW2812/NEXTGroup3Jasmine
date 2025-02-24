@@ -17,8 +17,9 @@ N/A
 
 **Individual:**
   Researched more roles in NEXT Careers site,
-  Wrote answer options for text based answers,
+  Wrote answer options for text based answers for the departments [...],
 
+**Collaberative:**
   Added roles, departments and range based questions to the database through sql statements with Jada
 
 ## Sprint Day Three - Wednesday 19/02/25
