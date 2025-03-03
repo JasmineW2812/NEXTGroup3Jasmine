@@ -39,7 +39,7 @@ N/A
 **Individual:**
   Refined answer options for text based answers,
   Wrote the sql which connects the answers to a specific role in the database, [roles.sql]
-  Created front end to the text based answer page, [app.css, TBQuestion.razor]
+  Created front end to the text based answer page, [app.css]
   Created layout front end with the next logo [NavMenu.razor]
 
   ### Issues
