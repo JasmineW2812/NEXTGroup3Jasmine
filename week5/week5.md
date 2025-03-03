@@ -40,7 +40,9 @@ N/A
   Refined answer options for text based answers,
   Wrote the sql which connects the answers to a specific role in the database, [roles.sql]
   Created front end to the text based answer page, [app.css]
-  Created layout front end with the next logo [NavMenu.razor]
+  Created layout front end with the next logo
+  ![image](https://github.com/user-attachments/assets/acdeeeb7-2a84-4f1f-a4ac-3482c4ded46c)
+
 
   ### Issues
   Minor issue where the text answers another member wrote were too vague for roles, so for consistancy I was asked to rewrite the IT department questions. While this was not a major issue it took more time than expected to complete due to needing to research into some roles further.
