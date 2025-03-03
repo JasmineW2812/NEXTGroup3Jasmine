@@ -1,0 +1,48 @@
+INSERT INTO [dbo].[TextAnswers]
+	(
+		[role_id],
+		[text]	
+	)
+
+VALUES
+	
+	(11,'You have a great knowledge of industry best practices in development'),
+	(11, 'You are able to work closely with Product Owners and Stakeholders to deliver solutions'),
+	(11, 'You can mentor junior developers on development methodologies and optimisation techniques'),
+	(12, 'You are proficient in microsoft based technologies e.g. C#, .NET, WCF and Web API'),
+	(12, 'You are familiar with Typescript, SQL and Javascript frameworks'
+	(13, 'You have the ability to set technical standards and make key decisions for the HR software'),
+	(13, 'You have experience in WebApi, SQL, jQuery and .NET Libraries and Bootstrap'),
+	(14, 'You have an organized workflow and regularly work with documentation using Excel or Google Sheets'),
+	(14, 'You are experienced in using HR and Finance technologies and incident logging systems'),
+	(15, 'In a previous position you have experience in Manual Handling'),
+	(15, 'You have experience with artworking files for print using Adobe Creative Suite'),
+	(16, 'You have experience with ServiceNow'),
+	(16, 'You can work with AngularJS, AJAX and XML'),
+	(17, 'You have skills in relationship-building and interpreting data-sets.'),
+	(17, 'You are proficient at using Power BI'),
+	(18, 'You prefer a fast paced and collaborative environment.'),
+	(18, 'You are able to use SSMS'),
+	(19, 'You strive in data-analytics and team-oriented experiences.'),
+	(19, 'You are experienced in the use of Azure Data Lakes and SSRS'),
+	(20, 'You have leadership and mentoring skills.'),
+	(20, 'You have experience with wireframing tools and CMS systems.'),
+	(21, 'You have communication and presentation skills. '),
+	(21, 'You are knowledgeable in data analysis, web standards and WCAG accessibility.'),
+	(22, 'You have great attention to detail and creativity'),
+	(22, 'You have experience in visual merchandising'),
+	(23, 'You have experience in manufacturing, grading and fit'),
+	(23, 'You have attention to technical detail'),
+	(24, 'You can research and identify commercial trends'),
+	(24, 'You are able to use mood boards and sketches to explain concepts'),
+	(25, 'You are able to collaborate and negotiate well with suppliers for materials'),
+	(25, 'You have the skills to approve fabric specifications'),
+	(26, 'Experience with photography including planning, editing and finalising imagery'),
+	(26, 'Knowledge on creating and managing shoots across multiple locations'),
+	(27, 'Your skills are more focused on maximising the performance of the product page'),
+	(28, 'You have experience working with SEO and Product team to improve performance'),
+	(28, 'You have experience leading for a trading department'),
+	(29, 'You have experience in guiding trainees and can set expectations and goals'),
+	(29, 'Experience in trading, managing stock and relationship development and interpreting data'),
+	(30, 'You can use your knowledge to influence future ranges'),
+	(30, 'You can take feedback from a team to improve on your skills')
