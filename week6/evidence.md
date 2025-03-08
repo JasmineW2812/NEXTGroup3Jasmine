@@ -1,10 +1,22 @@
-![image](https://github.com/user-attachments/assets/61d0af84-3f8c-44b2-b065-e404e8dbe7f5)
+Staff Dashboard Front-End Design
+
+![image](https://github.com/user-attachments/assets/611f776d-78a1-4a94-a08e-4b7680ac600d)
+
+Viewing CRUD Page for questions throung the staff nav menu
+
+![image](https://github.com/user-attachments/assets/7305da2b-91ad-4794-80d8-212aef6e1902)
 
 
-![image](https://github.com/user-attachments/assets/059fac7d-8a2a-4111-b8d6-20a9edf2d9a4)
+Candidate Dashboard Design with on hover event over results button
 
+![image](https://github.com/user-attachments/assets/30f11f27-12fc-4402-bfa6-fdbe88349e6e)
+
+
+The different layout components created
 
 ![image](https://github.com/user-attachments/assets/d3fbcd6d-e685-4091-8953-4a8fdaabda33)
+
+The css for the menu items showing temporary solution of using !important 
 
 
 ![image](https://github.com/user-attachments/assets/36ca9703-5ce1-4a8e-a36b-7cfcf2b978b8)
