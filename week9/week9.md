@@ -35,4 +35,4 @@ Look into how the login system can be fixed
 Fix sign up issue where a candidate can unintentionally create multiple accounts
 
 ### Issues
-The login functionality gives an error when both staff and candidate logins exist [See screenshot in evidence] which is taking a lot of time to look into due to not much documentation on mutliple user logins for the way we have created it.
+The login functionality gives an error when both staff and candidate logins exist which is taking a lot of time to look into due to not much documentation on mutliple user logins for the way we have created it.
