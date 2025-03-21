@@ -31,6 +31,7 @@ Added and looked more into access levels and authorization on pages so users now
 
 ## To do
 Look into how the login system can be fixed
+
 Fix sign up issue where a candidate can unintentionally create multiple accounts
 
 ### Issues
