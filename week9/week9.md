@@ -29,7 +29,7 @@ Wrote logout functionality for candidates,
 
 Added and looked more into access levels and authorization on pages so users now have to be signed in to access the dashboard pages
 
-## To do,
+## To do
 Look into how the login system can be fixed
 Fix sign up issue where a candidate can unintentionally create multiple accounts
 
