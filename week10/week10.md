@@ -30,11 +30,15 @@ Added links to login menus on landing page
 ## Day 4 - Thursday 27/03/25
 
 ### During session
+Continued working on the candidate / staff profile particularly on the front-end
+Helped Jacob look into the chart issue for the dashboard
 
 ### Issues
 
 ## Day 5 - Friday 28/03/25
 
 ### During session
+Finished woring on candidate / staff profile to work with the remade login system,
+
 
 ### Issues
