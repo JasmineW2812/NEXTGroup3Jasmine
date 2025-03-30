@@ -38,7 +38,7 @@ Helped Jacob look into the chart issue for the dashboard
 ## Day 5 - Friday 28/03/25
 
 ### During session
-Finished woring on candidate / staff profile to work with the remade login system,
+Created the testing document and user guide
 
 
 ### Issues
