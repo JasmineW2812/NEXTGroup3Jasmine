@@ -47,7 +47,9 @@ N/A
 ## Day 5 - Friday 28/03/25
 
 ### During session
-Created the testing document and user guide
+Created the testing document - includes test plan, evidence of non-functional testing and test cases which were written by me and Jacob 
+
+user guide- Includes all 3 types of users and screenshots
 
 ### Issues
 N/A
