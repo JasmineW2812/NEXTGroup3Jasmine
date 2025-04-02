@@ -42,7 +42,7 @@ Continued working on the candidate / staff profile particularly on the front-end
 Helped Jacob look into the chart issue for the dashboard
 
 ### Issues
-N/A
+Due to the difficulty of getting c# data to work with chart.js we were unable to finish this today
 
 ## Day 5 - Friday 28/03/25
 
@@ -52,4 +52,4 @@ Created the testing document - includes test plan, evidence of non-functional te
 user guide- Includes all 3 types of users and screenshots
 
 ### Issues
-N/A
+Could not complete other tasks planned e.g. presentation or set up section in the user guide due to runnning out of time so these will be worked on during the weekend
