@@ -16,7 +16,7 @@ Difficulty getting the hashed password system to work due unclear asp.net docume
 ### During session
 Users can logout functionality
 
-Continued with login system
+Continued with login system focusing on researching and coding authentication and authorisation so canddiate cannot access staff pages making the system much more secure
 
 ### Issues
 Could not get authorisation to work with different roles e.g. when a candidate has logged in they could access the staff pages since it only checks if the user is logged in and not their roles
