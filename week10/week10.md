@@ -4,25 +4,31 @@
 
 ### During session
 Made it so passwords are hashed once a candidate has registered
+
 Changed login to get hashed password
 
 ### Issues
+Difficulty getting the hashed password system to work due unclear asp.net documentation [FIXED] finding a method similar using stack overflow
 
 
 ## Day 2 - Tuesday 25/03/25
 
 ### During session
 Users can logout functionality
+
 Continued with login system
 
 ### Issues
 Could not get authorisation to work with different roles e.g. when a candidate has logged in they could access the staff pages since it only checks if the user is logged in and not their roles
+[FIXED] Other team member recieved support to remake the login system through the use of login model, sign up model etc 
 
 ## Day 3 - Wednesday 26/03/25
 
 ### During session
 Started working on profiles for candidate and staff which they can view/edit/delete
+
 Renamed classes in question page
+
 Added links to login menus on landing page
 
 ### Issues
@@ -31,6 +37,7 @@ Added links to login menus on landing page
 
 ### During session
 Continued working on the candidate / staff profile particularly on the front-end
+
 Helped Jacob look into the chart issue for the dashboard
 
 ### Issues
