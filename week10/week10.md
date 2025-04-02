@@ -3,7 +3,6 @@
 ## Day 1 - Monday 24/03/25
 
 ### During session
-Made it so passwords are hashed once a candidate has registered
 
 Changed login to get hashed password
 
