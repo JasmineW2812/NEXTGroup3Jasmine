@@ -21,7 +21,11 @@ Backend connections for user profile [Staff and Candidate]
 
 ## Day 4 - Thursday 27/03/25
 Front end for user profile
+
 ![image](https://github.com/user-attachments/assets/210cdf9e-ac25-4b42-8440-02c26ac99567)
+
+![image](https://github.com/user-attachments/assets/fbd018d0-1d4d-49a7-b5a7-6b18c3d962ba)
+
 
 ## Day 5 - Friday 28/03/25
 
