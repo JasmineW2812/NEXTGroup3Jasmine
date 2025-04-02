@@ -32,6 +32,7 @@ Renamed classes in question page
 Added links to login menus on landing page
 
 ### Issues
+Working on profile while sommeone was fixing the login system meant a lot of how the profile worked needed to be changed. This was because we did not expect for our login system to change so much e.g. using different models and needing to change the profile retriving the edit/delete page a different method rather then through the user's ID
 
 ## Day 4 - Thursday 27/03/25
 
@@ -41,11 +42,12 @@ Continued working on the candidate / staff profile particularly on the front-end
 Helped Jacob look into the chart issue for the dashboard
 
 ### Issues
+N/A
 
 ## Day 5 - Friday 28/03/25
 
 ### During session
 Created the testing document and user guide
 
-
 ### Issues
+N/A
